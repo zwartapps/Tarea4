@@ -1,0 +1,11 @@
+C:\Users\JOSE Y SORAYA\source\repos1\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.deps.json
+C:\Users\JOSE Y SORAYA\source\repos1\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.dll
+C:\Users\JOSE Y SORAYA\source\repos1\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.pdb
+C:\Users\JOSE Y SORAYA\source\repos1\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csprojResolveAssemblyReference.cache
+C:\Users\JOSE Y SORAYA\source\repos1\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+C:\Users\JOSE Y SORAYA\source\repos1\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.App.xaml.g.cs
+C:\Users\JOSE Y SORAYA\source\repos1\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.MainPage.xaml.g.cs
+C:\Users\JOSE Y SORAYA\source\repos1\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+C:\Users\JOSE Y SORAYA\source\repos1\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+C:\Users\JOSE Y SORAYA\source\repos1\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
+C:\Users\JOSE Y SORAYA\source\repos1\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb
